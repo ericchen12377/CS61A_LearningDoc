@@ -1,0 +1,4 @@
+'make_adder_inc-correct', (0, 70)
+'make_fib-correct', (512, 70)
+'scale-correct', (1024, 70)
+'hailstone-correct', (1536, 70)
