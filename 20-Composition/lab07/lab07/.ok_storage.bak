@@ -1,0 +1,4 @@
+'Link-correct', (0, 70)
+'Card.__init__-correct', (512, 70)
+'Card.power-correct', (1024, 70)
+'ProfessorCard.effect-correct', (1536, 70)
